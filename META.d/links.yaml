@@ -7,7 +7,7 @@ runbooks: []
 
 other_links:
   - name: readme
-    link: https://github.com/hashicorp/actions-set-product-version/blob/main/README.md
+    link: https://github.com/step-security/actions-set-product-version/blob/main/README.md
 
   - name: pagerduty
     link: https://hashicorp.pagerduty.com/service-directory/P37IMEL
