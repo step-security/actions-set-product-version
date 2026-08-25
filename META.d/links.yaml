@@ -1,0 +1,14 @@
+# Copyright IBM Corp. 2022, 2025
+# Copyright 2026 StepSecurity
+# SPDX-License-Identifier: MPL-2.0
+
+runbooks: []
+  # - name: runbook name
+  #   link: link to runbook
+
+other_links:
+  - name: readme
+    link: https://github.com/step-security/actions-set-product-version/blob/main/README.md
+
+  - name: pagerduty
+    link: https://hashicorp.pagerduty.com/service-directory/P37IMEL
