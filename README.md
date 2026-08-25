@@ -4,7 +4,7 @@
 [![Heimdall](https://heimdall.hashicorp.services/api/v1/assets/actions-set-product-version/badge.svg?key=195370081cbf50568fa41066c157e122a929e253ffa3f7e9b377c73433d31061)](https://heimdall.hashicorp.services/site/assets/actions-set-product-version) [![CI](https://github.com/step-security/actions-set-product-version/actions/workflows/lint.yml/badge.svg)](https://github.com/step-security/actions-set-product-version/actions/workflows/lint.yml)
 
 ## Description
-`actions-set-product-version` is a Github action that acts as a bridge between the product repo and hashicorp's new CRT feature: [automated version bumping](https://github.com/hashicorp/bob/commit/6813d9757c644679193a0af317e99570ac8cc848). This action should be used in the `build.yml` to parse the `version/VERSION` file that lives in all product repos. 
+`actions-set-product-version` is a Github action that acts as a bridge between the product repo and hashicorp's new CRT feature for automated version bumping. This action should be used in the `build.yml` to parse the `version/VERSION` file that lives in all product repos. 
 
 THe following describes what this action does: 
 
