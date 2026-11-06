@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0 # Important for Super-Linter to see full history
 
       - name: super linter
-        uses: step-security/super-linter/slim@v8
+        uses: step-security/super-linter/slim@v9
         env:
           # This line fixes the "unbound variable" crash
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
